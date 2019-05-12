@@ -1,0 +1,24 @@
+{
+  "name": "vue-google-search",
+  "version": "1.0.0",
+  "description": "Vue Google searchbox for finding your location",
+  "main": "src/VueGoogleSearch.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatasaikatepalli/vue-google-search.git"
+  },
+  "keywords": [
+    "vue-google-search",
+    "google-search",
+    "venkatasaikatepalli"
+  ],
+  "author": "Venkata Sai Katepalli <venkatasaikatepalli@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatasaikatepalli/vue-google-search/issues"
+  },
+  "homepage": "https://github.com/venkatasaikatepalli/vue-google-search#readme"
+}
